@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_edb28a659943fd9cbea2edd112c0d836f4539411\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_7a50a0fb732c13953044fe07a910822e17588bc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_30f0bdc5e6825d77658262ac00bf41cb99b5de77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_8454eaa1099e28877e103f8d7c8c256b1351717d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2509f57a28a01ddecd1dc3b7a0580c8e3a9f62bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_03d37271cff17776afddd50ecc725b01d925a62e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_b83c9b3d081417559da36b4850c5ed94caf3d191\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_8a7c67bafbe4999d4844882ae78db71ef54185e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_9e146bb2f7e228a19da932dea650a9b5641b893d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_46128a9bf67cb528f857615715c0d470ca44f36d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a9719f6a588a1484322b9eabd034a3d75623ec78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_04b404f122108d64017aebe2ce9db34e566ecab9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="054358caee19d1896bd4d7dafe6ed6a41f9e0ac8">
+        <dex dex="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8412aa40469e9e0970aeceb773c260f7f0b29d2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e52aec965d560837b84365a095a8a2bf321026cb">
+        <dex dex="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b782898d0dbc84e358d6d10be4604cfb4d898592\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_eacd7300fd855207c0a133988f763ce6d5d5758d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_1de2395c5c7cddb0288209000fea86da70473db2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_e992a245ae78fd32e6f5fcb05af20fd5e5236fa8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_a7fcf492c4138da4089f282a42542d049db80e0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_904bc18e54c5c8871943cbf91df3c878337932d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2af69b6cfb16e90824a82c686ff8adf22065ee7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_a6a485ec90c0e6364c084a66537932ab26242083\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_b0c753552096df6546151a8e50dc209f6b1f989c\classes.dex" />
+    </item>
+
+</items>
