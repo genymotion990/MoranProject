@@ -2,20 +2,18 @@ package com.example.hp1.cit2radio;
 
 
 import android.app.ProgressDialog;
-import android.media.AudioManager;
+import android.content.Intent;
 import android.media.MediaPlayer;
-import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 
 public class djpanel extends AppCompatActivity {
 
-    private Button btn;
+    //private Button btn;
     private boolean playPause;
-    private MediaPlayer mediaPlayer;
+    //private MediaPlayer mediaPlayer;
     private ProgressDialog progressDialog;
     private boolean initialStage = true;
 /*
@@ -123,10 +121,11 @@ protected void onPause() {
     }
     }
 */
+    /*
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_djpanel);
         btn = (Button) findViewById(R.id.audioStreamBtn);
         mediaPlayer = new MediaPlayer();
         mediaPlayer.setAudioStreamType(AudioManager.STREAM_MUSIC);
@@ -219,4 +218,56 @@ class Player extends AsyncTask<String, Void, Boolean> {
         progressDialog.show();
     }
 }
+}
+ */
+
+    private Button btn;
+    private MediaPlayer mediaPlayer;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_djpanel);
+        btn = (Button) findViewById(R.id.button1);
+
+        btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(getBaseContext(), StreamService.class);
+                i.putExtra("url","http://s5.pilovali.nl:8000/airtime_128");
+
+                startService(i);
+            }
+        });
+
+
+
+/*        setVolumeControlStream(AudioManager.STREAM_MUSIC);
+        mediaPlayer = new MediaPlayer();
+        mediaPlayer.setAudioStreamType(AudioManager.STREAM_MUSIC);
+        try {
+            mediaPlayer.setDataSource("http://mp3.pilo.ovh/34cdf1f036a2b.mp3");
+            mediaPlayer.prepareAsync();
+            mediaPlayer.setOnPreparedListener(new MediaPlayer.OnPreparedListener() {
+                @Override
+                public void onPrepared(MediaPlayer mp) {
+                    mediaPlayer.start();
+                }
+            });
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer.isPlaying()) {
+                    mediaPlayer.pause();
+                } else {
+                    mediaPlayer.start();
+                }
+            }
+        });*/
+
+    }
 }

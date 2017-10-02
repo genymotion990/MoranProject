@@ -1,0 +1,7 @@
+#Mon Oct 02 13:41:46 IDT 2017
+base.0=C\:\\Users\\Hp1\\Documents\\cit2radio\\cit2radio\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8412aa40469e9e0970aeceb773c260f7f0b29d2e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Hp1\\Documents\\cit2radio\\cit2radio\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b782898d0dbc84e358d6d10be4604cfb4d898592\\classes.dex
+base.1=C\:\\Users\\Hp1\\Documents\\cit2radio\\cit2radio\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b782898d0dbc84e358d6d10be4604cfb4d898592
+file.0=C\:\\Users\\Hp1\\Documents\\cit2radio\\cit2radio\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8412aa40469e9e0970aeceb773c260f7f0b29d2e\\classes.dex
