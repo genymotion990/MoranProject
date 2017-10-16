@@ -2711,15 +2711,16 @@ containing a value of this type.
         public static final int design_ic_visibility=0x7f020081;
         public static final int design_snackbar_background=0x7f020082;
         public static final int edt=0x7f020083;
-        public static final int ic_menu_camera=0x7f020086;
-        public static final int ic_menu_gallery=0x7f020087;
-        public static final int ic_menu_manage=0x7f020088;
-        public static final int ic_menu_send=0x7f020089;
-        public static final int ic_menu_share=0x7f02008a;
-        public static final int ic_menu_slideshow=0x7f02008b;
+        public static final int ic_menu_camera=0x7f020087;
+        public static final int ic_menu_gallery=0x7f020088;
+        public static final int ic_menu_manage=0x7f020089;
+        public static final int ic_menu_send=0x7f02008a;
+        public static final int ic_menu_share=0x7f02008b;
+        public static final int ic_menu_slideshow=0x7f02008c;
         public static final int navigation_empty_icon=0x7f020084;
-        public static final int notification_template_icon_bg=0x7f02008c;
-        public static final int side_nav_bar=0x7f020085;
+        public static final int notification_template_icon_bg=0x7f02008d;
+        public static final int pic=0x7f020085;
+        public static final int side_nav_bar=0x7f020086;
     }
     public static final class id {
         public static final int Pause=0x7f0c0081;

@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity  implements View.OnClickList
         login=(Button)findViewById(R.id.registerbt);
         login.setOnClickListener(this);
 
+
         TabHost host = (TabHost)findViewById(R.id.tabHost);
         host.setup();
 
@@ -58,7 +59,9 @@ public class MainActivity extends AppCompatActivity  implements View.OnClickList
 
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
-            return true;
+            Intent intent = new Intent(getApplicationContext(),settings.class);
+            startActivity(intent);
+
         }
 
         return super.onOptionsItemSelected(item);
@@ -71,4 +74,7 @@ public class MainActivity extends AppCompatActivity  implements View.OnClickList
         startActivity(intent);
 
     }
+
     }
+
+

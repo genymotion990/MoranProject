@@ -5,7 +5,7 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.1"
-    timestamp="1161036964690"
+    timestamp="512396630647558"
     token="-3811923246399202458"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -23,28 +23,21 @@
         duration="0" />
 
     <build
-        timestamp="807440580317"
+        timestamp="510033393787285"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="1152432903533"
-        verifier="COLD_SWAP_REQUESTED" >
+        timestamp="511749399494351"
+        verifier="CLASS_ADDED" >
         <artifact
             location="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
             type="DEX" />
     </build>
     <build
-        timestamp="1161036964690"
+        timestamp="512396630647558"
         verifier="COLD_SWAP_REQUESTED" />
-    <build
-        timestamp="344028480766485"
-        verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="C:\Users\Hp1\Documents\cit2radio\cit2radio\app\build\outputs\apk\app-debug.apk"
-            type="MAIN" />
-    </build>
 
 </instant-run>
